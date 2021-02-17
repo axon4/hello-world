@@ -1,7 +1,7 @@
 # Hello World
 
-* Started to relearn how to code in May 2020.
-* Random website involving fruits.
+* beginnings of re-learning how to code
+* random webSite involving fruits
 
 ## Stack
 
